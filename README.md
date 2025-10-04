@@ -12,11 +12,15 @@ This repository contains a **preview** of a high-fidelity Windows login UI repli
 
 ## Preview screenshots
 
-The three screenshots attached to this repo provide a quick glance at the demo:
+The two screenshots included in this preview are embedded below (files added to the repo):
 
-1. `Screenshot_2025-10-04_07_17_23.png` — Server and client views side-by-side, showing the development/monitoring interface used during demos and the client UI rendered on the test VM.
-2. `screenshot_2025.png` — Realistic Windows-style login screen. This image demonstrates the visual polish: animations, spacing, wallpapers, and the password-entry interaction as shown in the preview demo.
-3. `screenshot_2025_1.png` — Demo status view indicating a simulated connection state from the test harness. (Shown here as a preview — the repository contains only simulation/demo artifacts.)
+1. **Server and client views side-by-side** — development/monitoring interface and the client UI rendered on the test VM.
+
+![Server and client views side-by-side](screenshot_2025.png)
+
+2. **Realistic Windows-style login screen + demo status** — shows the realistic login UI and the demo status view indicating the simulated connection state.
+
+![Realistic Windows-style login screen and demo status](screenshot_2025_1.png)
 
 > Note: All screenshots are marked as simulation/demo content. Any logged data visible in screenshots is part of a controlled demonstration.
 
